@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "6a2d992ab4b4a51a8fd83f4f64eb68a7",
+  "assets/AssetManifest.json": "af9ce453cc4a04939f0f4eeeca6fc3a3",
 "assets/Assets/Fonts/Nunito/Nunito-Bold.ttf": "c0844c990ecaaeb9f124758d38df4f3f",
 "assets/Assets/Images/Algo.png": "cebd5aafecbf06f90f5c423d5a2f3972",
 "assets/Assets/Images/computer.png": "da9af4c4611c58a008734d0a2b7a045a",
@@ -12,9 +12,10 @@ const RESOURCES = {
 "assets/Assets/Images/design.png": "0f88e3a8e59c9127511b6081b05551f6",
 "assets/Assets/Images/graph.png": "d19de052d638db6452945eb56c8843ef",
 "assets/Assets/Images/person.png": "5cde9490370ac55b8033a2aadbc16561",
-"assets/Assets/Images/prof.jpg": "ed5fc8b56dd0539082144fd0f07aefb3",
+"assets/Assets/Images/prof.jpg": "a4187f1c5eab2633617e54aa5ee62f63",
 "assets/Assets/Images/quantum-computing.png": "82403f35d26e1b05b36ec1ab366cf77a",
 "assets/Assets/Images/quantum.png": "9144e200d3403b16a0aec1badf8588bb",
+"assets/Assets/Images/Raghav.jpeg": "ec83c57d3a7ffb0a3a569af5cbb5e547",
 "assets/Assets/Images/research.png": "f2d0c7f2ddff10b71983e7a95b4d44f5",
 "assets/Assets/Images/solutions.png": "23101aba01f1f691fd03b0b0880a601a",
 "assets/Assets/Images/writing.png": "e5609fcf3a216e23d7cc1c825de2478e",
@@ -25,9 +26,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "1b85b5b8ea2c475e12d747788e6a4d08",
-"/": "1b85b5b8ea2c475e12d747788e6a4d08",
-"main.dart.js": "d81774f4cf9fe4b1ae05f48921e80edb",
+"index.html": "e32c9ffdd09419cb202063b20c9d619a",
+"/": "e32c9ffdd09419cb202063b20c9d619a",
+"main.dart.js": "e35a08e641e2a7226aa47343eecf6aae",
 "manifest.json": "5eea30b2f5debb2d2332f4e703fba412",
 "version.json": "52ec77be557e5fb433af14c55bedcc04"
 };
