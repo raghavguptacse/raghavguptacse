@@ -3,13 +3,15 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "af9ce453cc4a04939f0f4eeeca6fc3a3",
+  "assets/AssetManifest.json": "a624d4aa680d546af9e84ad68606eae0",
 "assets/Assets/Fonts/Nunito/Nunito-Bold.ttf": "c0844c990ecaaeb9f124758d38df4f3f",
+"assets/Assets/Images/akash.jpeg": "2ed4b8b6db547075e5036c738dcd373f",
 "assets/Assets/Images/Algo.png": "cebd5aafecbf06f90f5c423d5a2f3972",
 "assets/Assets/Images/computer.png": "da9af4c4611c58a008734d0a2b7a045a",
 "assets/Assets/Images/consult.png": "ca57d5e21892a7783a36171e01db1974",
 "assets/Assets/Images/cryptography.png": "7055ab3a2c5a76478d16d7cc91bae24a",
 "assets/Assets/Images/design.png": "0f88e3a8e59c9127511b6081b05551f6",
+"assets/Assets/Images/devanshi.jpeg": "2b81f60b518440e6c916f651ae068490",
 "assets/Assets/Images/graph.png": "d19de052d638db6452945eb56c8843ef",
 "assets/Assets/Images/person.png": "5cde9490370ac55b8033a2aadbc16561",
 "assets/Assets/Images/prof.jpg": "a4187f1c5eab2633617e54aa5ee62f63",
@@ -26,9 +28,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "e32c9ffdd09419cb202063b20c9d619a",
-"/": "e32c9ffdd09419cb202063b20c9d619a",
-"main.dart.js": "e35a08e641e2a7226aa47343eecf6aae",
+"index.html": "0f5d0b9a6217d5d4f361344c33bc103e",
+"/": "0f5d0b9a6217d5d4f361344c33bc103e",
+"main.dart.js": "560aa4cf2155736100faeacd43a1b36a",
 "manifest.json": "5eea30b2f5debb2d2332f4e703fba412",
 "version.json": "52ec77be557e5fb433af14c55bedcc04"
 };
